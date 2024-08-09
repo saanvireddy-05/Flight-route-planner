@@ -1,0 +1,15 @@
+NewYork LosAngeles 4500 500 360
+NewYork Chicago 1200 150 120
+NewYork Miami 2000 200 180
+LosAngeles SanFrancisco 600 100 90
+LosAngeles Seattle 1500 200 150
+Chicago Denver 1600 180 150
+Chicago Miami 1900 200 180
+Miami SanFrancisco 4300 450 360
+Denver Seattle 2100 250 200
+SanFrancisco Seattle 1300 150 120
+Boston NewYork 400 80 60
+Boston Chicago 1500 160 120
+Boston Miami 2400 250 210
+Boston LosAngeles 4900 550 420
+Boston SanFrancisco 5100 600 450
